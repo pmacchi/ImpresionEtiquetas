@@ -1,0 +1,9 @@
+^XA
+^CF0,60
+^FO50,50^FDEtiqueta de Prueba^FS
+^BY3,3,100
+^FO50,150^BC^FD1234567890^FS
+^CF0,40
+^FO50,300^FDDescripción: Producto Random^FS
+^FO50,360^FDFecha: 01/07/2025^FS
+^XZ

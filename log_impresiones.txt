@@ -1,0 +1,2 @@
+[2025-07-01 09:37:41] Etiqueta: etiquetas\MiEtiqueta.txt | Impresora: \\ad.midominio.com.ar\Impresora-Termica-2 | Cantidad: 3
+[2025-07-01 09:39:26] Etiqueta: etiquetas\MiEtiqueta.txt | Impresora: \\ad.midominio.com.ar\Impresora-Termica-3 | Cantidad: 2
