@@ -1,13 +1,6 @@
 
-██████╗ ███╗   ██╗████████╗███████╗ ██████╗
-██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝██╔════╝
-██║   ██║██╔██╗ ██║   ██║   █████╗  ██║     
-██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██║     
-╚██████╔╝██║ ╚████║   ██║   ███████╗╚██████╗
- ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝ ╚═════╝
-
-Programa de Impresión de Etiquetas ONTEC
-----------------------------------------
+Programa de Impresión de Etiquetas
+-----------------------------------
 
 Este programa está dedicado a todos los que buscan la eficiencia y la precisión en la impresión de etiquetas.
 

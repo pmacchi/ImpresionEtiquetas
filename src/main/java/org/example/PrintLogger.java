@@ -7,7 +7,18 @@ import java.time.format.DateTimeFormatter;
 
 public class PrintLogger {
 
+    private static PrintLogger instance;
+
+    private PrintLogger () {};
+
     private static final String LOG_FILE = "log_impresiones.txt";
+
+    public static PrintLogger getInstance() {
+        if ( instance == null ) {
+            instance = new PrintLogger();
+        }
+        return instance;
+    }
 
     public void log(String etiqueta, String impresora, int cantidad) {
         try (FileWriter writer = new FileWriter(LOG_FILE, true)) {
